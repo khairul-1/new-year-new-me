@@ -1,8 +1,7 @@
 .flex-container{
-   
    size: 200px;
-   
-   
+   display: flex;
+   between
  }
 .text-holder{
     font-family: 'Work Sans';
@@ -26,6 +25,21 @@
     height: 44px;
     border-radius: 5px;
     background: #FD6E0A;
-
 }
+
+.previous-year{
+    top: 4000px;
+    bottom: 3000px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    top: 1000px;
+    bottom: 1600px;
+    right: 1000px;
+    left: 2000px;
+}
+nav li{
+    list-style-type: square;
+         }
 
