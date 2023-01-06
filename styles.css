@@ -1,10 +1,31 @@
 .flex-container{
-   position: relative;
+   
+   size: 200px;
+   
+   
  }
 .text-holder{
+    font-family: 'Work Sans';
     position: absolute;
-    bottom: 20px;
-    right: 20px;
+    text-align: right;
+    top: 200px;
+    bottom: 364px;
+    right: 250px;
+    left: 1000px;
     padding-left: 20px;
     padding-right: 20px;
 }
+.contact-us{
+    margin-top: 10px;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    border: 0;
+    padding top: 18px;
+    Padding bottom: 18px;
+    height: 44px;
+    border-radius: 5px;
+    background: #FD6E0A;
+
+}
+
