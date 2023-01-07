@@ -1,3 +1,4 @@
+/*Part1-----*/
 .flex-container{
    size: 200px;
    display: flex;
@@ -25,6 +26,8 @@
     border-radius: 5px;
     background: #FD6E0A;
 }
+
+/*Part2-----*/
 
 .failure{
     display: flex;
@@ -61,6 +64,9 @@ nav ul {
     margin-top: 50px;
     margin-left: 800px;
 }
+
+/*Part3-----*/
+
 .li_myplans{
     list-style: none;
     display: flex;
@@ -72,6 +78,8 @@ nav ul {
 .inside_limyplans{
     display: list-item;
 }
+
+/*Part4--------------*/
 
 .mainPic{
     position:relative;top:10px;left:200px;z-index:0;
@@ -106,6 +114,8 @@ nav ul {
     top:2100px;left:300px;
     z-index: 20
 }
+
+/*Part5------------------*/
 
 .future1{
     display: flex;
