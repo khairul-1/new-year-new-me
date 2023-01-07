@@ -61,3 +61,14 @@ nav ul {
     margin-top: 50px;
     margin-left: 800px;
 }
+.li_myplans{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 70px;
+}
+.inside_limyplans{
+    display: list-item;
+}
