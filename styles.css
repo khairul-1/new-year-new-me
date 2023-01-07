@@ -113,12 +113,15 @@ nav ul {
     color: #FFFFFF;
     background-color: black;
     justify-content: space-between;
+   
 }
 .future{
-    left:3000px;
+    position: relative;
+    left:150px;
 }
 .subscribe{
-    right:300px;
+    position: relative;
+    right: 300px;
 }
 .btn3{
     margin-top: 10px;
@@ -132,11 +135,26 @@ nav ul {
     border-radius: 5px;
     background: #FD6E0A;
     background-color:white;
+    
 }
 .social_media{
     display: flex;
     list-style: none;
     justify-content:space-evenly;
+}
+.input1{
+    margin-top: 10px;
+    color:#F3F3F3;
+    font-weight: 600;
+    font-size: 20px;
+    border: 10px;
+    padding top: 18px;
+    Padding bottom: 18px;
+    height: 44px;
+    border-radius: 5px;
+    background-color:empty;
+    border-color:white;
+    
 }
 
 
