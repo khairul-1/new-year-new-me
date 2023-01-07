@@ -72,3 +72,39 @@ nav ul {
 .inside_limyplans{
     display: list-item;
 }
+
+.mainPic{
+    position:relative;top:10px;left:200px;z-index:0;
+    opacity: 0.7
+}
+.secondPic{
+    position:absolute;top:1920px;left:210px;z-index:10;
+    opacity: 0.7
+}
+.txt4{
+    position: absolute;
+    top:1950px;left:300px;
+    color:white;
+    font-weight: 1000;
+    font-size: 50px;
+    opacity: 1;
+    z-index: 20;
+    }
+.btn2{
+    margin-top: 10px;
+    color: #FD6E0A;
+    font-weight: 600;
+    font-size: 20px;
+    border: 0;
+    padding top: 18px;
+    Padding bottom: 18px;
+    height: 44px;
+    border-radius: 5px;
+    background: #FD6E0A;
+    background-color:white;
+    position: absolute;
+    top:2100px;left:300px;
+    z-index: 20
+}
+
+
