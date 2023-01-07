@@ -107,4 +107,36 @@ nav ul {
     z-index: 20
 }
 
+.future1{
+    display: flex;
+    list-style: none;
+    color: #FFFFFF;
+    background-color: black;
+    justify-content: space-between;
+}
+.future{
+    left:3000px;
+}
+.subscribe{
+    right:300px;
+}
+.btn3{
+    margin-top: 10px;
+    color: #FD6E0A;
+    font-weight: 600;
+    font-size: 20px;
+    border: 0;
+    padding top: 18px;
+    Padding bottom: 18px;
+    height: 44px;
+    border-radius: 5px;
+    background: #FD6E0A;
+    background-color:white;
+}
+.social_media{
+    display: flex;
+    list-style: none;
+    justify-content:space-evenly;
+}
+
 
