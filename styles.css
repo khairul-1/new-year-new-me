@@ -1,7 +1,6 @@
 .flex-container{
    size: 200px;
    display: flex;
-   between
  }
 .text-holder{
     font-family: 'Work Sans';
@@ -27,19 +26,38 @@
     background: #FD6E0A;
 }
 
-.previous-year{
-    top: 4000px;
-    bottom: 3000px;
-}
-nav{
+.failure{
     display: flex;
     justify-content: space-between;
-    top: 1000px;
-    bottom: 1600px;
-    right: 1000px;
-    left: 2000px;
+    margin-left: 300px;
 }
-nav li{
-    list-style-type: square;
-         }
 
+.previous-year{
+    top: 2000px;
+    bottom: 3000px;
+    margin-right: 150px;
+    margin-top: 200px;
+}
+h2{
+    margin-right: 400px;
+}
+
+h6{
+    margin-right: 250px;
+    font-size: small;
+    font-weight: lighter;
+}
+
+nav ul {
+    list-style: none;
+  }
+  
+ nav ul li:before {
+    content: '✓';
+    color: greenyellow;
+    line-height:180%
+      }
+.text3{
+    margin-top: 50px;
+    margin-left: 800px;
+}
